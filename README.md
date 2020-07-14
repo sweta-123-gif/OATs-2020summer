@@ -17,14 +17,24 @@ Markdown is a lightweight option for formatting text. See this [cheat sheet](htt
 |Brandon|bmayer9345|
 |Uladzimir|ulahvinovich|
 |Bryan|Biretanaramirez|
-|Stephen|George|
+|Stephen|stephengeorge56|
 |Todd|@ToddTrost|
 |David|dchristianson4415|
 |Lee|leebuhrmann
 |Toluwa|DanGanGalaxy|
+|Vy|vyvo2412|
 |Logan|Logann120|
 |Tommy|@tjtucker|
 |Dan|Azncowboy|
+|Jason|1husker2|
 |Hugo|jinbe-808|
 |Sweta|sweta-123-gif| 
+|Andrew|@AndrewLacouture|
+|Yanni|ZonWang|
+|Nick|mynamenick|
+|Makayla|Mnix56|
+|Randon|RanAngell|
+|Jacob|@jacobthehammer|
+|Nate Slater|@slater66|
+
 Just add a line above to add yourself. :)
